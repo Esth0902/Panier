@@ -1,0 +1,14 @@
+C:\Users\esthe\Documents\IFOSUP\BAC INFO 2\Programmation orientée objet\Rider Projects\ConsoleApp1\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.exe
+C:\Users\esthe\Documents\IFOSUP\BAC INFO 2\Programmation orientée objet\Rider Projects\ConsoleApp1\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.deps.json
+C:\Users\esthe\Documents\IFOSUP\BAC INFO 2\Programmation orientée objet\Rider Projects\ConsoleApp1\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.runtimeconfig.json
+C:\Users\esthe\Documents\IFOSUP\BAC INFO 2\Programmation orientée objet\Rider Projects\ConsoleApp1\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.dll
+C:\Users\esthe\Documents\IFOSUP\BAC INFO 2\Programmation orientée objet\Rider Projects\ConsoleApp1\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.pdb
+C:\Users\esthe\Documents\IFOSUP\BAC INFO 2\Programmation orientée objet\Rider Projects\ConsoleApp1\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esthe\Documents\IFOSUP\BAC INFO 2\Programmation orientée objet\Rider Projects\ConsoleApp1\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\esthe\Documents\IFOSUP\BAC INFO 2\Programmation orientée objet\Rider Projects\ConsoleApp1\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfo.cs
+C:\Users\esthe\Documents\IFOSUP\BAC INFO 2\Programmation orientée objet\Rider Projects\ConsoleApp1\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\esthe\Documents\IFOSUP\BAC INFO 2\Programmation orientée objet\Rider Projects\ConsoleApp1\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.dll
+C:\Users\esthe\Documents\IFOSUP\BAC INFO 2\Programmation orientée objet\Rider Projects\ConsoleApp1\ConsoleApp2\obj\Debug\net8.0\refint\ConsoleApp2.dll
+C:\Users\esthe\Documents\IFOSUP\BAC INFO 2\Programmation orientée objet\Rider Projects\ConsoleApp1\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.pdb
+C:\Users\esthe\Documents\IFOSUP\BAC INFO 2\Programmation orientée objet\Rider Projects\ConsoleApp1\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.genruntimeconfig.cache
+C:\Users\esthe\Documents\IFOSUP\BAC INFO 2\Programmation orientée objet\Rider Projects\ConsoleApp1\ConsoleApp2\obj\Debug\net8.0\ref\ConsoleApp2.dll
